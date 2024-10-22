@@ -237,6 +237,8 @@ While the source code is private, we welcome:
 <div align="center">
 *Note: This is a private repository. While project information and statistics are shared publicly, the source code is maintained privately for security and intellectual property reasons.*
 
+---
+
 Engineered with ❤️ by Deepak Nishad
 
 </div>
