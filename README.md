@@ -8,8 +8,8 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 <div align="center">
-![App Logo](screenshots/logo.png)
-  <!-- <img src="/screenshots/logo.jpg" alt="App Logo" width="200"/> -->
+
+  <img src="/screenshots/logo.jpg" alt="App Logo" width="200"/>
   
   *Smart medication management for modern healthcare*
 </div>
@@ -49,7 +49,7 @@ The Smart Pill Reminder System is a sophisticated Android application that bridg
 
 ### Main Interface
 <div style="display: flex; justify-content: space-between;">
-  <img src="/screenshots/splash_screen.jpg.jpg" alt="Home Screen" width="200"/>
+  <img src="/screenshots/splash_screen.jpg.jpg" alt="Splash Screen" width="200"/>
   <img src="/screenshots/dashboard_without_data.jpg" alt="Home Screen" width="200"/>
   <img src="/screenshots/dashboard_multiple_data.jpg" alt="Reminder List" width="200"/>
 </div>
